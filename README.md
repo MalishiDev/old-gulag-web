@@ -1,3 +1,5 @@
+# THIS IS NOT MINE, IT IS A TEMPORARY REPO OF GULAG-WEB WHILE YO-RU MAKES A REWRITE.
+
 [![Discord](https://discordapp.com/api/guilds/748687781605408908/widget.png?style=shield)](https://discord.gg/ShEQgUx)
 
 # The frontend service for the modern osu! private server, gulag!
